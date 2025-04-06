@@ -1,0 +1,11 @@
+{ 
+    "token": "BOT TOKEN HERE", 
+    "channel_names": ["fucked by shelby", "flux wizzed", "moot diya server pe"],
+    "role_names": ["shelby", "wizzed"],
+    "spam_content": [
+        "@everyone @here shelby wizzed https://discord.gg/",
+        "@everyone @here server got fucked by shelby https://discord.gg/",
+        "@everyone @here flux wizzed https://discord.gg/"
+    ],
+    "useproxy": false
+}

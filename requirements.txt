@@ -1,0 +1,5 @@
+httpx
+pystyle
+colorama
+discord.py
+legacy-cgi
