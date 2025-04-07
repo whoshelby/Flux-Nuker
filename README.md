@@ -66,7 +66,7 @@ Please ensure your changes are well-documented and tested.
 
 ## Credits
 
-- Developer - [notshelby#0]("https://github.com/whoshelby/Flux-Nuker")
+- Developer - [notshelbyy#0]("https://discord.com/users/452082030180565002")
 
 ## Contact
 If you encounter any issues, bugs, or have questions, feel free to contact me on Discord: ['notshelby']("https://discord.com/users/452082030180565002"). I'm always open to feedback and support requests.
