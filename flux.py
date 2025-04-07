@@ -53,7 +53,7 @@ art = Center.XCenter(f'''
     ░ ░     ░ ░    ░░░ ░ ░  ░    ░  
             ░  ░   ░      ░    ░               
 #########################################
-#   Flux Nuker v{VERSION} by notshelby#00   #
+#   Flux Nuker v{VERSION} by notshelbyy#00   #
 #########################################\n\n''')
 def print_menu():
     menu = Center.XCenter(f"""############################################################################\n#  (1) Ban Members      #  (5) Delete Roles     #  (9) Give Admin          #\n#  (2) Kick Members     #  (6) Create Channels  #  (10) Rename Guild       #\n#  (3) Prune Members    #  (7) Create Roles     #  (11) Update             #\n#  (4) Delete Channels  #  (8) Spam Channels    #  (12) Exit               #\n############################################################################\n\n""")
