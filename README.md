@@ -16,6 +16,8 @@ Flux is an advanced, high-speed Discord nuker built for maximum impact and effic
 - **Proxy Support**: Optional proxy usage for API requests via a `proxies.txt` file.
 - **Threaded Operations**: Efficiently handle multiple tasks with a thread limit.
 
+![image](https://github.com/user-attachments/assets/09b351f3-6305-413b-879f-ad6642702856)
+
 ## Prerequisites
 
 To run Flux Nuker, you need:
